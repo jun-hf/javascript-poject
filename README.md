@@ -9,7 +9,6 @@ This is a fun library where you can:
 4. Able to update your read status
 
 Tech that I had used:
-
 1. HTML
 2. Boostrap
 3. CSS
