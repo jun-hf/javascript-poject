@@ -10,5 +10,6 @@ This is a fun library where you can:
 
 Tech that I had used:
 1. HTML
-2. Boostrap
-3. CSS
+2. JavaScript
+3. Boostrap
+4. CSS
