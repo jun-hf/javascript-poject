@@ -7,4 +7,5 @@
 3. Able to view a detailed informetion about books stored
 
 Tech:
-1. CSS, HTML, Boostrap
+1. HTML
+2. Boostrap
